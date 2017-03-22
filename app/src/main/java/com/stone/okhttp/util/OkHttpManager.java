@@ -32,9 +32,12 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * https://github.com/square/okhttp/wiki/Recipes   如果有其它请求类型，可以参考该官网wiki
+ * 
  * author : stone
  * email  : aa86799@163.com
  * time   : 15/12/2 20 59
+ *
  */
 public class OkHttpManager {
 
