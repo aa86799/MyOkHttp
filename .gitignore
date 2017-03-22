@@ -5,4 +5,11 @@
 /.idea/libraries
 .DS_Store
 /build
-/captures
+/captu
+.idea**
+gradlew**
+app/src/test
+app/src/androidTest
+ok3/src/androidTest
+ok3/src/test
+gradle/
